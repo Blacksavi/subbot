@@ -1,14 +1,10 @@
-README.md for GitHub
-
-Here is a README.md that you can use for your GitHub repository. It includes a professional structure, detailed explanations, and instructions for users to set up and run the Telegram bot.
-
 # Telegram Translation Bot
 
 This **Telegram Bot** allows you to upload `.srt` subtitle files and automatically translates them to **Sinhala**. It also handles custom bad word filtering, ensuring that inappropriate words are replaced with Sinhala alternatives. 
 
 You can use this bot for translating movie or TV show subtitles, as well as ensuring that the translated text is clean and free from offensive language.
 
-![Bot Banner](https://example.com/your-image.png)  <!-- Replace with your image URL -->
+![Bot Banner](https://pin.it/4QtJT6pYq)  <!-- Replace with your image URL -->
 
 ## Features
 
