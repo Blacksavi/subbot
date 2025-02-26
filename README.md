@@ -4,7 +4,7 @@ This **Telegram Bot** allows you to upload `.srt` subtitle files and automatical
 
 You can use this bot for translating movie or TV show subtitles, as well as ensuring that the translated text is clean and free from offensive language.
 
-![Bot Banner](https://pin.it/4QtJT6pYq)  <!-- Replace with your image URL -->
+![Bot Banner](https://i.pinimg.com/originals/4q/tj/6p/4QtJT6pYq.jpg)
 
 ## Features
 
